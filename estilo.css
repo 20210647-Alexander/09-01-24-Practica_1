@@ -1,0 +1,44 @@
+#contenedor
+{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 700px;
+    margin-top: 5%;
+    margin-left: 37%;
+    background-color: aqua;
+
+}
+
+img{
+    width: 170px;
+    height: 170px;
+}
+
+#img{
+    background-color: #ffff;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 155px;
+}
+#titulo{
+    background-color: #c281dc;
+    width: 100%;
+    text-align: center;
+}
+
+#titulo h2{
+    margin-bottom: 100px;
+}
+
+#datos{
+    background-color: rgb(127, 179, 228);
+    width: 100%;
+    height: 100%;
+}
+
+#datos h1{
+    text-align: center;
+    margin-top: 140px;
+}
